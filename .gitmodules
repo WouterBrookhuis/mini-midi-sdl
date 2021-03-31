@@ -1,0 +1,3 @@
+[submodule "mini-midi"]
+	path = mini-midi
+	url = git@github.com:WouterBrookhuis/mini-midi.git
